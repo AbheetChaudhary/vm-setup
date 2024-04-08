@@ -4,7 +4,7 @@ sudo apt update
 sudo apt upgrade
 
 # general purpose packages
-general='neovim tmux neofetch tldr fzf'
+general='tmux neofetch tldr fzf'
 
 # C development
 C_devel='cmake build-essential'
