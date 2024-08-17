@@ -4,7 +4,7 @@ sudo apt update
 sudo apt upgrade
 
 # general purpose packages
-general='tmux neofetch tldr fzf'
+general='tmux neofetch tldr fzf python3 ipython3'
 
 # C development
 C_devel='cmake build-essential'
